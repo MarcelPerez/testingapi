@@ -9,7 +9,7 @@ class App extends Component {
 
   render() {
     return <div><iframe src="http://10.147.18.139:3000/d-solo/D1oAjtJVk/new-dashboard?orgId=1&from=1676464004786&to=1676485604786&panelId=2" title=""
-    width="1000" height="750"></iframe></div>;
+    width="1000" height="752"></iframe></div>;
   }
 }
 
